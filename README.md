@@ -1,4 +1,4 @@
-<h2 align="left">Hello👋!, I'm Arya. I'm an electrical engineering student at SBU and a programmer. I'm also a member of the Auriga robotics team.</h2>
+<h2 align="left">Hello👋!, I'm Aria. I'm an electrical engineering student at SBU and a programmer. I'm also a member of the Auriga robotics team.</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 ###
 
 <div align="left">
-  <a href="aria._.dai" target="_blank">
+  <a href="@aria._.dai" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="aria.dadnavi@gmail.com" target="_blank">
